@@ -97,7 +97,7 @@ section .title::after {
 
 .navbar.sticky {
   padding: 15px 0;
-  background: crimson;
+  background: #77acf1;
 }
 
 .navbar .max-width {
@@ -154,7 +154,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("images/assasin.jpg") no-repeat center;
+  background: url("images/back.jpg");
   height: 50vh;
   color: #fff;
   min-height: 500px;
